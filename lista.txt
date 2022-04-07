@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 lista eliminada
+=======
+carne
+lechuga
+leche
+msj escrito por lucas
+>>>>>>> 570abf5133ede9a4a35c05692d4747866e801845
